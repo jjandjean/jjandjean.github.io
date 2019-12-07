@@ -6,3 +6,9 @@
 11:00 AM Ceremony
 12:00 PM Reception
 
+### FAQ
+
+#### Where is the wedding registry?
+
+It does not exist. Please just donate to a charity you like.
+

@@ -1,3 +1,8 @@
+---
+layout: default
+title: About Us
+---
+
 ## Hello!
 This is a page for people who only know one of us and not the other.
 We believe such people don't really exist since we seem to travel as a pair, but this page was made for you just in case.

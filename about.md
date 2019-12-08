@@ -11,4 +11,4 @@ Lauri made a long and difficult journey to the US a year later.
 Ever since then, Brownie and Lauri have become inseparable (except when Brownie is greedy and wants all the food for himself).
 Lauri and Brownie have graciously agreed to be the ring bearers for Jean and JJ's wedding ceremony.
 
-![Lauri and Brownie gif](images/jj_and_jean.gif){:width="50%"}
+![Lauri and Brownie gif](images/jj_jean_logo.gif){:width="50%"}

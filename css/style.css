@@ -1,11 +1,16 @@
-.google-maps {
+.site-nav {
+    margin: 0 0 10px;
+}
+
+.google-iframe-embeds {
     position: relative;
     padding-bottom: 75%;
     height: 0;
     overflow: hidden;
+    margin: 0 0 20px;
 }
 
-.google-maps iframe {
+.google-iframe-embeds iframe {
     position: absolute;
     top: 0;
     left: 0;

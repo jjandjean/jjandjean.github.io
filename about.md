@@ -3,19 +3,8 @@ layout: default
 title: About Us
 ---
 
-## Hello!
-This is a page for people who only know one of us and not the other.
-We believe such people don't really exist since we seem to travel as a pair, but this page was made for you just in case.
-
-### Who is Jean?
-
-Honestly, a weirdo.
-
-### Who is JJ?
-
-Much less of a weirdo.
-
-### How did they meet?
-
-At work.
-
+![Lauri and Brownie](images/facetime.jpg){:width="50%"}
+Brownie is a 2013 Stanford graduation bear. Lauri is a bear from Australia who loves to travel.
+Jean and JJ met Lauri at the Sydney Airport in 2017 and thought that she'd be a great partner for Brownie.
+Lauri made a long and difficult journey to the US a year later.
+Ever since then, Brownie and Lauri have become inseparable (except when Brownie is greedy and wants all the food for himself).

@@ -14,5 +14,10 @@ It does not exist. Please just donate to a charity you like.
 </div>
 
 #### What should I wear?
-Casual! We want you to be comfortable. You also need to be able to move around in your clothes to get in the bouncy castle.
-Much of the wedding will be outside. Bring a light sweater just in case.
+Casual (think sundress, comfy shoes, etc)! You'll be outside most of the time out on the grass.
+Bring an outerlayer just in case it gets a bit chilly.
+If you want to play in the bouncy castle, make sure you wear something you can jump around in.
+
+![Brownie and Lauri](images/tenor.gif){width="100px"}
+
+

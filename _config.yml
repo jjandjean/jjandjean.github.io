@@ -1,6 +1,7 @@
 title: JJ and Jean are getting married
 theme: jekyll-theme-minimal
 header_pages:
+   - index.md
    - about.md
-   - rsvp.md
    - faq.md
+   - rsvp.md

@@ -18,6 +18,6 @@ Casual (think sundress, comfy shoes, etc)! You'll be outside most of the time ou
 Bring an outerlayer just in case it gets a bit chilly.
 If you want to play in the bouncy castle, make sure you wear something you can jump around in.
 
-![Brownie and Lauri](images/tenor.gif | width=100)
+![Brownie and Lauri](images/tenor.gif){:width="100px"}
 
 

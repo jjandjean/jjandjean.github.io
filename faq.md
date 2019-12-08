@@ -18,8 +18,8 @@ We promise to donate 100% of the money to the charity.
 </div>
 
 #### What should I wear?
-Casual (think sundress, comfy shoes, etc)! You'll be outside most of the time out on the grass.
-Bring an outerlayer just in case it gets a bit chilly.
+Casual (think sundress, comfy shoes, etc)! You'll be outside on the grass most of the time.
+Bring an outerlayer in case it gets a bit chilly.
 If you want to play in the bouncy castle, make sure you wear something you can jump around in.
 
 ![Brownie and Lauri](images/tenor.gif){:width="100px"}

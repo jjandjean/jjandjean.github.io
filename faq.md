@@ -6,7 +6,11 @@ title: FAQ
 
 #### Where is the wedding registry?
 
-It does not exist. Please just donate to a charity you like.
+It does not exist.
+Instead, we ask that you donate the money you would have spent on a wedding gift.
+We plan to bring some jars to the wedding, each labeled with a charity that we support.
+You can then drop money into the jar of your choice.
+We promise to donate 100% of the money to the charity.
 
 #### Where is Aptos Village Park?
 <div class="google-iframe-embeds">

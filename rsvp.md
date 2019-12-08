@@ -24,7 +24,7 @@ title: RSVP
         <label for="id4.3"><input type="radio" name="entry.323160021" value="Maybe" id="id4.3" required />Maybe</label>
     </p>
     <p>
-        <p>Food allergies?</p>
+        <p>Food allergies or dietary restrictions?</p>
         <input type="text" name="entry.2606285" />
     </p>
     <p>

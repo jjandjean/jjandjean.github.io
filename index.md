@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+![Jean and JJ](images/about_us.jpg)
 ## July 18th, 2020
 ## Aptos Village Park
 

@@ -6,11 +6,8 @@ title: FAQ
 
 #### Where is the wedding registry?
 
-It does not exist.
-Instead, we ask that you donate the money you would have spent on a wedding gift.
-We plan to bring some jars to the wedding, each labeled with a charity that we support.
-You can then drop money into the jar of your choice.
-We promise to donate 100% of the money to the charity.
+Thanks for asking, but we've been very fortunate and don't need gifts.
+But if you want a token to celebrate the day with us, we'll be accepting red envelopes at the wedding, which we'll donate to charities we support.
 
 #### Where is Aptos Village Park?
 <div class="google-iframe-embeds">
@@ -22,6 +19,8 @@ Casual (think sundress, comfy shoes, etc)! You'll be outside on the grass most o
 Bring an outerlayer in case it gets a bit chilly.
 If you want to play in the bouncy castle, make sure you wear something you can jump around in.
 
+#### Where did the cute bear logo come from?!
+Jean's product designer friend, the amazing and talented <a href="http://carolynsun.com/">Carolyn Sun</a>, was kind enough to make us a logo.
+Check out her work <a href="http://carolynsun.com/">here</a> and <a href="https://www.instagram.com/carolyn.sun7/">here</a>.
+
 ![Brownie and Lauri](images/tenor.gif){:width="100px"}
-
-

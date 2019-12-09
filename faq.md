@@ -7,7 +7,7 @@ title: FAQ
 #### Where is the wedding registry?
 
 Thanks for asking, but we've been very fortunate and don't need gifts.
-But if you want a token to celebrate the day with us, we'll be accepting red envelopes at the wedding, which we'll donate to charities we support.
+If you want a token to celebrate the day with us, we'll be accepting red envelopes at the wedding, which we'll donate to charities we support.
 
 #### Where is Aptos Village Park?
 <div class="google-iframe-embeds">

@@ -15,4 +15,4 @@ title: Home
 4:00 PM End
 
 ### What's happening at the wedding?
-Tea ceremony. Bouncy castle. Sushi.
+Tea ceremony. Sushi. Bouncy castle.

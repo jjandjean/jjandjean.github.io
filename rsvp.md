@@ -28,7 +28,7 @@ title: RSVP
         <input type="text" name="entry.2606285" />
     </p>
     <p>
-        <p>Song suggestions?</p>
+        <p>Song suggestions for the reception?</p>
         <input type="text" name="entry.1999125361" />
     </p>
     <input type="submit">

@@ -17,3 +17,38 @@
     width: 100% !important;
     height: 100% !important;
 }
+
+.form input[type="email"],
+.form input[type="text"] {
+    width: 100%;
+}
+
+.form input[type="radio"] {
+    margin-right: 5px;
+}
+
+.form input[type="submit"] {
+    padding: 8px 15px;
+    background: #eee;
+    border-radius: 5px;
+    border: solid 1px;
+}
+
+.form input[type="submit"]:hover {
+    background: #ddd;
+    cursor: pointer;
+}
+
+.form label {
+    margin: 0 0 3px 0;
+}
+
+.form .required {
+    color: red;
+}
+
+.form fieldset {
+    margin: 0 0 20px 0;
+    padding: 0;
+    border: 0;
+}

@@ -8,7 +8,9 @@ title: Home
 
 ### Schedule
 
-11:00 AM Ceremony
+11:00 AM Tea Ceremony
+
+11:30 AM Ceremony
 
 12:00 PM Reception
 

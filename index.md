@@ -8,6 +8,9 @@ title: Home
 
 ### Schedule
 
+We are planning to start with a Chinese-style tea ceremony followed by a Western-style ceremony.
+You are welcome to join us for one or both.
+
 11:00 AM Tea Ceremony
 
 11:30 AM Ceremony

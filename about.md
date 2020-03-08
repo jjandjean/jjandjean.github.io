@@ -3,7 +3,7 @@ layout: default
 title: About Our Bears
 ---
 
-![Lauri and Brownie](images/bears_eating.jpg){:width="50%"}
+![Lauri and Brownie](images/bears_eating.jpg)
 
 Brownie is a 2013 Stanford graduation bear. Lauri is a bear from Australia who loves to travel.
 Jean and JJ met Lauri at the Sydney Airport in 2017 and thought that she'd be a great partner for Brownie.

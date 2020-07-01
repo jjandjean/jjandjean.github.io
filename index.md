@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 ![Jean and JJ](images/about_us.jpg){:width="50%"}
+
+# Update: Our wedding has been postponed until next year.
+
 # July 18th, 2020
 # Aptos Village Park
 

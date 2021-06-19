@@ -26,3 +26,6 @@ Bring an outer layer in case it gets a bit chilly.
 
 ### Gifts
 No need to bring gifts!
+
+### Vaccination policy
+Please only come if you are vaccinated. Of course, any child who is too young to be vaccinated per CDC guidelines is still welcome to attend.

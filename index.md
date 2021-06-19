@@ -23,7 +23,3 @@ Bring an outer layer in case it gets a bit chilly.
 
 ### Gifts
 No need to bring gifts!
-
-### Parking
-There should be plenty of street parking in the area.
-

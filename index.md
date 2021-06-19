@@ -7,16 +7,23 @@ title: Home
 # July 17th, 2021
 # Backyard of 10825 Dryden Ave, Cupertino, CA 95014
 
-Hello! We got married April 26th, 2021 and we'd love to have you join our post-wedding celebration.
+Hello! We got legally married on April 26th, 2021 and we'd love to have you join us for a casual get-together.
 
 ### Schedule
 
-4:00 PM Cocktail hour
+4:00 PM Cocktail hour + photos
 
 5:00 PM Dinner
 
 
 ### Dress Code
-Casual — Think sundress, shirt and pants, comfy shoes, etc. Jackets, ties, and evening gowns not required.
+Casual. Jackets, ties, and evening gowns not required.
 You'll be outside on the grass most of the time.
 Bring an outer layer in case it gets a bit chilly.
+
+### Gifts
+No need to bring gifts!
+
+### Parking
+There should be plenty of street parking in the area.
+

@@ -4,15 +4,6 @@ title: FAQ
 ---
 ## FAQ
 
-#### Where is the wedding registry?
-
-Thanks for asking, but we've been very fortunate and don't need gifts.
-If you want a token to celebrate the day with us, we'll be accepting <a href="https://en.wikipedia.org/wiki/Red_envelope">red envelopes</a> at the wedding, which we'll donate to charities we support.
-
-#### Where is Aptos Village Park?
-<div class="google-iframe-embeds">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3187.3509381035974!2d-121.90575468482348!3d36.977555579912355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808e15d793ff0dc5%3A0x4e1538e19b6cb9f2!2sAptos%20Village%20County%20Park!5e0!3m2!1sen!2sus!4v1575692358928!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-</div>
 
 #### Where did the cute bear logo come from?!
 Jean's product designer friend, the amazing and talented <a href="http://carolynsun.com/">Carolyn Sun</a>, was kind enough to make us a logo.

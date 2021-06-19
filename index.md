@@ -13,7 +13,9 @@ Hello! We got legally married on April 26th, 2021 and we'd love to have you join
 ### Schedule
 
 4:00 PM Guests arrive, Mocktail hour begins
+
 4:30 PM Photos
+
 5:00 PM Dinner
 
 

@@ -18,6 +18,8 @@ Hello! We got legally married on April 26th, 2021 and we'd love to have you join
 
 5:00 PM Dinner
 
+7:00 PM Wrap up
+
 
 ### Dress Code
 Casual. Jackets, ties, and evening gowns not required.
